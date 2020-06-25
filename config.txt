@@ -1,0 +1,18 @@
+customize_padding_big = 45
+button_padding = 75
+window_w = 1280
+current_truck = 0
+window_h = 720
+menu_top_padding = 280
+fullscreen = true
+hud_padding = 75
+logoypos = 15
+currentsuitcost = 1000
+current_suit = 0
+quickcustomize = 1
+current_weapon = 0
+
+weapons_available = 1
+currentweaponcost = 2000
+currenttruckcost = 1500
+showtutorial = true;
